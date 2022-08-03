@@ -1,0 +1,8 @@
+/* @import 'assets/scss/base/custom';
+@import './../node_modules/bootstrap/scss/bootstrap.scss';
+@import 'assets/scss/main.scss';
+ */
+.min-vh-75{
+    min-height: calc(100vh - 62px);
+}
+

@@ -1,0 +1,51 @@
+{
+  "resp": true,
+  "clienteFonet": {
+    "estado": "exito",
+    "datos": [
+      {
+        "id": 2115,
+        "nombre": "HENRY DANIEL LORETO GONZALEZ",
+        "estado": "RETIRADO",
+        "correo": "Henryloreto1@gmail.com",
+        "telefono": "",
+        "movil": "04144328116",
+        "cedula": "V13332983",
+        "pasarela": "000292 CONTRATO",
+        "codigo": "13332983HDL",
+        "direccion_principal": "CALLE PPAL EL RINCON, CONJUNTO RESIDENCIAL TIERRA DE GRACIA III ETAPA #B-30 NAGUANAGUA EDO.CARABOBO",
+        "servicios": null,
+        "facturacion": {
+          "facturas_nopagadas": 1,
+          "total_facturas": "948640.00"
+        }
+      }
+    ]
+  },
+  "email": "Henryloreto1@gmail.com",
+  "cedula": "V13332983",
+  "facturas": {
+    "estado": "exito",
+    "facturas": [
+      {
+        "id": 22928,
+        "legal": 0,
+        "idcliente": 2115,
+        "emitido": "2018-03-09",
+        "vencimiento": "2018-03-15",
+        "total": "948640.00",
+        "estado": "vencido",
+        "cobrado": "0.00",
+        "impuesto": "101640.00",
+        "oxxo_referencia": "",
+        "barcode_cobro_digital": "",
+        "fechapago": "0000-00-00",
+        "subtotal": "847000.00",
+        "subtotal2": "$ 847,000.00",
+        "total2": "$ 948,640.00",
+        "impuesto2": "$ 101,640.00",
+        "formapago": "-------"
+      }
+    ]
+  }
+}
